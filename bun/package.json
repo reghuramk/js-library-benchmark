@@ -1,5 +1,5 @@
 {
-  "name": "bunjs",
+  "name": "bun",
   "module": "index.ts",
   "type": "module",
   "private": true,

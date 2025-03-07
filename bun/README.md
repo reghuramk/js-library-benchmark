@@ -1,4 +1,4 @@
-# bunjs
+# bun
 
 To install dependencies:
 
