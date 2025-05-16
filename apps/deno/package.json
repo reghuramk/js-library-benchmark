@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "redis-simple-rate-limiter": "^1.1.1"
+  }
+}
